@@ -1,0 +1,15 @@
+1. Which Agile principle was easiest to implement using Taiga?
+
+The Agile principle that was easiest to implement using Taiga was welcoming change. Taiga allows new requirements to be added as user stories in the backlog and reprioritized without affecting completed work. This makes it easy to adapt to changing requirements during the project.
+
+2. Which principle was difficult to represent using a tool?
+
+The principle individuals and interactions over processes and tools was difficult to fully represent using Taiga. While the tool supports comments and discussions, it cannot completely replace direct communication and face-to-face interaction among team members.
+
+3. How does Taiga support collaboration and transparency?
+
+Taiga supports collaboration and transparency by providing shared access to the backlog, sprint boards, and task updates. Team members can view progress, priorities, and changes in real time, ensuring clear communication and visibility across the project.
+
+4. Can Agile values exist without tools? Justify.
+
+Yes, Agile values can exist without tools. Agile focuses on teamwork, communication, and adaptability. While tools like Taiga help organize and track work, Agile practices can still be followed through regular communication, discipline, and collaboration even without project management software.
