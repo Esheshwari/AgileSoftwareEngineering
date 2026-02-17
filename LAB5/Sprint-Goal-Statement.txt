@@ -1,0 +1,3 @@
+Sprint Goal:
+
+Deliver a working foundation of the Online Course Registration System that allows students to register, browse courses, and enroll successfully, ensuring core enrollment functionality is operational.
