@@ -1,0 +1,9 @@
+This lab provided practical experience in understanding Adaptive Software Development (ASD) and how it differs from traditional project management approaches.
+Through the Speculate-Collaborate–Learn (SCL) cycle, I understood that ASD focuses on flexibility, learning, and continuous improvement rather than rigid planning.
+During the Speculate phase, assumptions were made about user behavior and system requirements, and these were intentionally marked as subject to change. 
+In the Collaborate phase, stakeholder feedback was incorporated through discussions, comments, and sprint adjustments, demonstrating how teamwork and communication shape project outcomes. 
+In the Learn phase, assumptions were evaluated, and backlog priorities were modified based on new insights.
+
+This exercise showed that adaptive development is highly suitable for uncertain and dynamic environments where requirements evolve frequently. 
+Unlike traditional planning, ASD embraces change and treats it as an opportunity to improve the product. 
+Overall, the lab highlighted the importance of flexibility, collaboration, and continuous learning in modern software development practices.
