@@ -1,0 +1,39 @@
+Risk Notes 
+
+You can paste these as comments under relevant user stories.
+
+🔹 Risk – Student Registration
+
+Risk: Database schema may not be finalized.
+
+Impact: Backend development may be delayed.
+
+Mitigation: Finalize schema before starting API implementation.
+
+🔹 Risk – Course Enrollment
+
+Risk: Validation logic complexity underestimated.
+
+Impact: Incorrect enrollment handling.
+
+Mitigation: Add early testing and peer review.
+
+🔹 Risk – Admin Add/Update Course
+
+Risk: Requirement changes regarding schedule updates.
+
+Impact: Rework in UI and backend.
+
+Mitigation: Confirm requirements with Product Owner before development.
+
+🔹 Risk – Email Notifications (if selected)
+
+Risk: External email service dependency.
+
+Impact: Integration delays.
+
+Mitigation: Use mock email service for testing.
+
+You can also mark high-risk stories as:
+
+“High Risk – requires validation and early testing.”
