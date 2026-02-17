@@ -1,0 +1,24 @@
+PHASE 1: UNDERSTANDING ADAPTIVE SOFTWARE DEVELOPMENT
+Step 1: ASD Characteristics (Write in Word)
+1️ Mission-Focused Development
+
+ASD focuses on achieving the overall mission or business goal rather than strictly following detailed plans. The team concentrates on delivering value instead of just completing predefined tasks.
+
+2️ Component-Based Development
+
+Development is done in small, manageable components. Each component can be developed, tested, and improved independently, allowing flexibility and faster adjustments.
+
+3️ Time-Boxed Iterations
+
+Work is divided into fixed time periods (iterations). The team delivers the best possible output within the time limit rather than waiting for everything to be perfect.
+4️ Risk-Driven and Change-Tolerant Planning
+
+ASD accepts uncertainty and identifies risks early. Plans are flexible and adjusted as new information emerges instead of being rigid.
+
+5️ Continuous Learning
+
+Teams regularly review outcomes, gather feedback, and adapt. Learning from each iteration improves future decisions.
+
+🔹 Why Traditional Planning Fails in Uncertain Environments
+
+Traditional planning assumes requirements are stable and predictable. In uncertain environments, requirements change frequently, making fixed long-term plans ineffective. Rigid planning leads to delays, rework, and increased costs when changes occur.
