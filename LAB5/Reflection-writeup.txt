@@ -1,0 +1,9 @@
+The sprint planning exercise provided practical insight into capacity-based planning and risk management. 
+The team defined a clear sprint goal focused on enabling core student functionalities such as registration, browsing, and enrollment.
+Based on a total sprint capacity of 30 story points, user stories were selected carefully to avoid overloading the team. 
+Risks such as technical dependencies, requirement uncertainty, and external integrations were identified early and documented.
+
+The mid-sprint change simulation demonstrated the importance of protecting sprint scope. 
+Instead of immediately accepting the new email notification requirement, the team evaluated its impact on capacity and sprint goal alignment. 
+The decision to defer or reprioritize showed that Agile planning balances flexibility with commitment. 
+Overall, the exercise highlighted that successful sprint execution depends on realistic planning, clear goals, risk awareness, and collaborative decision-making.
